@@ -1,0 +1,49 @@
+#margin {
+    width: 440px;
+    height: 440px;
+    border: 10px solid fuchsia;
+    
+}
+.margin-boxes{
+    width: 100px;
+    height: 100px;
+    background-color: limegreen;
+} 
+#margin-box-1{
+    margin-left:340px;
+}
+#margin-box-2{
+    margin-left:220px;
+    border: 10px solid gray;
+}
+#margin-box-3{
+    margin-left:120px;
+}
+#margin-box-4{
+    border: 10px solid gray;
+}
+
+.padding-boxes{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+
+}
+.padding-boxes-2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid tomato;
+}
+
+#pading-box-2{
+    padding-left: 120px;
+
+}
+#pading-box-3{
+    padding-left: 240px;
+}
+#pading-box-4{
+    padding-left: 360px;
+}
+
