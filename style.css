@@ -2,6 +2,7 @@
     width: 440px;
     height: 440px;
     border: 10px solid fuchsia;
+    margin: 0 auto;
     
 }
 .margin-boxes{
@@ -21,6 +22,11 @@
 }
 #margin-box-4{
     border: 10px solid gray;
+}
+
+#padding {
+    width: 480px;
+    margin: 0 auto;
 }
 
 .padding-boxes{
